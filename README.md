@@ -14,5 +14,5 @@ go install
 
 ```bash
 ntpclient time # Вывод текущего времени
-ntpclient time --server=time --server=ntp0.NL.net # Используя свой сервер
+ntpclient time --server=ntp0.NL.net # Используя свой сервер
 ```
