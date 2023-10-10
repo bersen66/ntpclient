@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/bersen66/cbrapp/pkg/ntp"
+	"github.com/bersen66/ntpclient/pkg/ntp"
 	"github.com/spf13/cobra"
 )
 

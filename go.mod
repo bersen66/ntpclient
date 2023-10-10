@@ -1,4 +1,4 @@
-module github.com/bersen66/cbrapp
+module github.com/bersen66/ntpclient
 
 go 1.18
 
