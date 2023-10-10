@@ -10,3 +10,9 @@ cd ntpclient
 go install
 ```
 
+# Использование:
+
+```bash
+ntpclient time # Вывод текущего времени
+ntpclient time --server=time --server=ntp0.NL.net # Используя свой сервер
+```
